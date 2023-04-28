@@ -1,0 +1,119 @@
+.title{
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight:bold; 
+    font-size: 50px; 
+    color: #f5f0ef; 
+    text-shadow: -1px 0 #6dbebc, 0 1px #6c8cd8, 1px 0 #96a5c7, 0 -1px #414D68, -2px 2px 0 #51c0cc, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 
+
+
+
+}
+
+
+.ent{
+    display: center;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 14px;
+    border: 6px solid black;
+    color: black;
+    width: -4rem;
+    position: relative;
+    margin: .5rem;
+  
+    border-radius: 2rem;
+   
+   
+  
+
+
+
+    
+}
+    
+    
+
+
+.label{
+  
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+    font-size: 33px; 
+    color: #241606; 
+    
+   
+}
+.labelError{
+    color: #5e0f23; 
+}
+.button{
+  color: rgb(208, 41, 41);
+  margin: 0 .5rem;
+  background-color:#752708;
+  border-radius: .4rem;
+
+  padding: .4rem 1rem;
+  cursor:pointer;
+
+  color: #efeae7;
+  border: 1px solid #ffffff;
+  border-radius: 25px;
+  font-size: 22px; 
+  font-family: Arial, Helvetica, sans-serif; 
+  font-weight:bold; 
+}
+.button:hover {
+  color: rgb(255, 255, 255);
+  background: #F29F05;
+  }
+  .select {
+   margin: 0 .5rem;
+   background-color:#ecf1f6;
+    border-radius: .4rem;
+  
+    padding: .4rem 1rem;
+    cursor:pointer;
+  
+    color:#121616;
+    border: 0.5px solid rgb(15, 15, 15);
+    border-radius: 20px;
+    font-size: 22px; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+  }
+  .btn{
+    color: rgb(186, 22, 22);
+    margin: 0 .5rem;
+    background-color:#9ef063;
+    border-radius: .4rem;
+    color: #2d2927;
+  
+    padding: .4rem 1rem;
+    cursor:pointer;
+    border: 1px solid black;
+    border-radius: 25px;
+    font-size: 30px; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+  }
+  .input{
+    font-size: 20px; 
+    color: #aa8548;
+    border: 1px solid black;
+  }
+  
+  .submit{
+    background-color:#223534;
+    border-radius: .9rem;
+  
+    padding: .1rem 6rem;
+    cursor:pointer;
+  
+    color: #ece6e2;
+    border: 5px solid rgb(231, 218, 218);
+    border-radius: 25px;
+    font-size: 20px; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+  }

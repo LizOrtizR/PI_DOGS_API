@@ -1,0 +1,23 @@
+.container{
+    justify-content: space-around;
+    padding: 0rem;
+    border-radius: 1rem;
+    margin: 3rem;
+
+  
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+
+
+
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+    padding: 0rem;
+  }
+

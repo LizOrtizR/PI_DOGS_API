@@ -1,0 +1,31 @@
+.pagination{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: relative;
+    width: 75%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.numbers{
+    padding: 5px;
+    background-color: rgb(0,0,0,.3);
+    border-radius: 50%;
+    margin-right: 7px;
+    cursor: pointer;
+    color: white;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+   
+   
+   background-color: #bfd989; 
+   color:black;
+   transition: 0.5s;
+   box-shadow: 0.5px 0.5px 0.5px 0.5px rgb(29, 78, 45);
+ 
+
+}

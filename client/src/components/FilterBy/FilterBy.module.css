@@ -1,0 +1,55 @@
+.select{
+  position: relative;
+ padding: 10px 15px;
+  
+  border: none;
+  border-radius: 5px;
+  background-color: #d4d4d4;
+  outline: none;
+  transition: all 0.2s;
+  color: black;
+  
+  background-color: lightcyan;
+  transition: 0.5s;
+  box-shadow: 1px 1px 1px 1px lightcyan;
+ border: 1px  lightcyan;
+
+
+}
+.selectdiv{
+  width: 100%;
+    display: flex;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-right: 10px;
+}
+.buttons{
+  position: relative;
+    justify-content: end;
+    text-align: end;
+    width: 35%;
+    margin-right: 5px;
+
+   margin-left: 10px;
+}
+
+.button{
+  position: relative;
+ padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  font-weight: 500;
+  outline: none;
+  transition: all 0.2s;
+display: inline-flex;
+background: #d4d4d4;
+  color: black;
+  
+   
+ background-color: lightcyan;
+      transition: 0.5s;
+      box-shadow: 1px 1px 1px 1px lightcyan;
+    border: 1px  lightcyan;
+}
